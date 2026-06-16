@@ -5,7 +5,7 @@ A modern football statistics web application built with React and live API integ
 ---
 
 ## 🔗 Live Demo
-(Add Vercel link later)
+https://football-stats-app-snowy.vercel.app/
 
 ---
 
@@ -38,4 +38,4 @@ This project demonstrates real-world frontend development skills including API i
 
 ## 📸 Preview
 
-(Add screenshot here)
+<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/ca4ca32b-2ebe-4e45-a3e3-eafd1f011405" />
